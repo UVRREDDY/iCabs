@@ -1,0 +1,118 @@
+.topbar {
+    background: #18496b;
+    padding: 4px 0;
+    color: white;
+}
+.navbar-brand{
+    padding-left: 30px;
+}
+.nav-item{
+    padding: 10px;
+     font-size: 20px;
+    color: rgb(35, 214, 12);
+}
+.carousel-item .col-lg-8{
+    text-align: end;
+}
+.content-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    color: #006Db7;
+    font-weight:bold;
+}
+.btn{
+    background-color:#18496b;
+    color: white;
+    
+}
+.about{
+    text-align: center;
+}
+.about h2 span{
+    color: #18496b;
+}
+.about p{
+    text-align: justify;
+}
+.service{
+  text-align: center;
+  background-color: rgba(10, 10, 10, 0.8);
+  background-image: url("slide4.jpeg");
+}
+.service h2 span{
+    color:#ffff00 ;
+}
+.servicepro{
+    padding-top: 40px;
+    padding-bottom: 30px;
+}
+.container{
+    padding-right: 15px;
+    padding-left: 15PX;
+    margin-left: auto;
+    margin-right: auto;
+}
+.nopadding{
+    padding: 0px !important;
+}
+.servicetitle{
+    margin-bottom: 45px;
+}
+h2{
+    font-family:  sans-serif;
+    
+}
+p{
+    margin: 0 0 0 10px ;
+    padding-top: 12px;
+}
+.responsive{
+    display: flex;
+    width: 100%;
+    height: auto;
+    box-sizing: border-box;
+}
+input{
+    width: 100%;
+    padding: 20px;
+    margin-bottom: 15px;
+
+}
+.form-select{
+    height: 70px;
+    border-style: inset;
+}
+.bggray {
+        background: #18496b;
+    }
+.layout{
+    
+    background: #1b2c3e;
+    padding: 35px 0 0px;
+} 
+.title{
+    
+    font-size: 16px;
+    color: #ffff00;
+    font-weight: 500;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+   
+}  
+.facility{
+    color: #fff;
+    padding: 0;
+    margin: 0;
+} 
+.singleAdds {
+    position: relative;
+    padding-left: 22px;
+    line-height: .8;
+    margin-bottom: 20px;
+}
+
+
+
